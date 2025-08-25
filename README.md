@@ -68,7 +68,7 @@ If you use Strata-Sword in your research, please cite the following paper:
   title={Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions},
   author={Alibaba AI Group(AAIG)},
   year={2025},
-  url={https://github.com/Alibaba-AAIG/Oyster}
+  url={https://github.com/Alibaba-AAIG/Strata-Sword}
 }
 ```
 ---
