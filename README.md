@@ -74,8 +74,11 @@ If you use Strata-Sword in your research, please cite the following paper:
 ---
 ## 🤝 Contribution
 We welcome collaboration and discussion in the areas of security evaluation and alignment:
+
 Red-team work is continuous and ongoing; Strata-Sword will continue to release new versions in the future!
+
 We welcome contributions from more red-team developers for large models to brainstorm and continuously propose jailbreak attack methods to be added to subsequent Strata-Sword evaluation sets!
+
 In addition, feel free to submit Issues to report problems and engage in Discussions to share ideas!
 
 ---
