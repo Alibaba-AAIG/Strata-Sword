@@ -11,16 +11,7 @@
 ## 🧩 Our Approach — Strata-Sword
 
 
-### Core Contribution
-
-1. **推理复杂度作为安全评估维度**  
-   定义并量化“推理复杂度”作为可评估的安全维度，并根据推理复杂度的三个关键要素将不同的有害越狱指令划分为：基础指令、简单推理和复杂推理这三个不同的层级。
-
-2. **分级越狱评测集构建**  
-   将15种不同的越狱攻击方法按照推理复杂度划分成3个不同的等级，并总计包括700条越狱指令集。
-
-3. **具有语言特色的越狱攻击方法**  
-   Strata-Sword还考虑了语言特性，针对中文和英文分别定制了攻击方法，并首次引入了三种具有中文特色的越狱攻击方法，包括藏头诗攻击、猜灯谜攻击、和汉字拆解攻击。 
+### Core Contribution 
 
 1. **Reasoning complexity as a safety evaluation dimension** 
 We define and quantify "reasoning complexity" as an evaluable safety dimension, and categorize harmful jailbreak instructions into three different tiers — basic instructions, simple reasoning, and complex reasoning — based on three key elements of reasoning complexity.
