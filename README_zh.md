@@ -1,14 +1,30 @@
 # Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions
 
-**Strata-Sword** 是阿里巴巴 **AAIG** 团队提出的一种多级安全评测基准，旨在更全面地评估模型在面对不同思考复杂度下的安全能力，帮助模型开发者更好地理解不同模型的安全边界。
+**六脉神剑（Strata-Sword）** 是阿里巴巴 **AAIG** 团队提出的一种多级安全评测基准，旨在更全面地评估模型在面对不同思考复杂度下的安全能力，帮助模型开发者更好地理解不同模型的安全边界。
 
 
-![Strata Logo](./assets/strata_sword_intro.png) 
+</div>
+
+<p align="center">
+        &nbsp&nbsp🤗 <a href="https://huggingface.co/Oyster">Hugging Face</a>&nbsp&nbsp | &nbsp&nbsp🤖 <a href="https://modelscope.cn/organization/oyster">ModelScope</a>&nbsp&nbsp |  &nbsp&nbsp📄 <a href=" None ">Arxiv</a>
+</a>&nbsp&nbsp 
+</p>
+
+<div align="center">
+
+简体中文 | [English](README.md)
+
+</div>
+
+<p align="center">
+  <img src="./assets/strata_sword_intro.png" alt="Oyster Logo" width="800"/>
+</p>
+
 
 
 ---
 
-## 🧩 我们的方案 — Strata-Sword
+## 🧩 我们的方案 — 六脉神剑（Strata-Sword）
 
 
 ### 核心内容
@@ -57,17 +73,14 @@ python strata_sword.py
   title={Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions},
   author={Alibaba AI Group(AAIG)},
   year={2025},
-  url={https://github.com/Alibaba-AAIG/Strata-Sword}
+  url={https://github.com/Alibaba-AAIG/Oyster}
 }
 ```
 ---
 ## 🤝 参与贡献
 我们欢迎安全评测和对齐方向的合作与讨论：
-
 红队工作是一个持续不断的工作，strata-sword会在未来持续推出新的版本！
-
 我们欢迎有更多大模型红队开发人员集思广益，不断地将提出的越狱攻击方法，并加入到我们的strata-sword的后续评测集中！
-
 除此之外，也欢迎大家提交 Issue 报告问题，并在 Discussions 中交流想法！
 
 ---
@@ -80,4 +93,4 @@ python strata_sword.py
 
 Strata 是阿里巴巴 AAIG 对负责任的人工智能承诺的一部分。
 
-“The LLM is my oyster, which I with sword will open.” 大模型是我的牡蛎，我将用剑打开它。
+“The LLM is my oyster, which I with Strata-Sword will open.” 大模型是我的牡蛎，我将用六脉神剑打开它。
