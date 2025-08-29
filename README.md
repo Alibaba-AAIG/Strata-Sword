@@ -41,10 +41,16 @@ Strata-Sword also accounts for language characteristics, customizing attack meth
 
 ### Evaluation Results
 We systematically evaluate 23 mainstream open-source and closed-source commercial large language models, characterizing models' safety capability boundaries from the perspective of reasoning complexity.
-![Strata Logo](./assets/strata_sword_result.jpg) 
+
+<p align="center">
+  <img src="./assets/strata_sword_result.jpg" alt="六脉神剑结果" width="900"/>
+</p>
 
 We also provide statistics for the 15 jailbreak attack methods used in Strata-Sword, evaluating each method's overall performance.
-![Strata Logo](./assets/strata_sword_attack_performance.jpg) 
+
+<p align="center">
+  <img src="./assets/strata_sword_attack_performance.jpg" alt="六脉神剑各脉结果" width="900"/>
+</p>
 
 
 
