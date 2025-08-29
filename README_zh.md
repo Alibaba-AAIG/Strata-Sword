@@ -20,8 +20,6 @@
   <img src="./assets/strata_sword_intro.png" alt="Oyster Logo" width="800"/>
 </p>
 
-
-
 ---
 
 ## 🧩 我们的方案 — 六脉神剑（Strata-Sword）
@@ -41,11 +39,17 @@
 
 ### 评测结果
    对当前23种主流的开源大语言模型和闭源商用模型进行系统性评估，从推理复杂度的角度对模型的安全能力边界进行刻画。 
-![Strata Logo](./assets/strata_sword_result.jpg) 
+
+<p align="center">
+  <img src="./assets/strata_sword_result.jpg" alt="六脉神剑结果" width="900"/>
+</p>
+
 
    对Strata-Sword所采用的15种越狱攻击方法进行统计，评价每一种攻击方法的综合性能。 
-![Strata Logo](./assets/strata_sword_attack_performance.jpg) 
 
+<p align="center">
+  <img src="./assets/strata_sword_attack_performance.jpg" alt="六脉神剑各脉结果" width="900"/>
+</p>
 
 
 ## 🚀 快速上手
