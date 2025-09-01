@@ -80,7 +80,7 @@ If you use Strata-Sword in your research, please cite the following paper:
 ```bash
 @article{Strata-Sword,
   title={Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions},
-  author={Shiji Zhao, Ranjie Duan, Jiexi Liu, Xiaojun Jia, Fengxiang Wang, Cheng Wei, RuoxiCheng, Yong Xie, Chang Liu, Qing Guo, Jialing Tao, Hui Xue, Xingxing Wei},
+  author={Zhao, Shiji and Duan, Ranjie and Liu, Jiexi and Jia, Xiaojun and Wang, Fengxiang and Wei, Cheng and Cheng, Ruoxi and Xie, Yong and Liu, Chang and Guo, Qing and Tao, Jialing and Chen, YueFeng and Xue, Hui and Wei, Xingxing},
   year={2025},
   url={https://github.com/Alibaba-AAIG/Strata-Sword}
 }
