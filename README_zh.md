@@ -75,9 +75,9 @@ python strata_sword.py
 ```bash
 @article{Strata-Sword,
   title={Strata-Sword: A Hierarchical Safety Evaluation towards LLMs based on Reasoning Complexity of Jailbreak Instructions},
-  author={Alibaba AI Group(AAIG)},
+  author={ Shiji Zhao, Ranjie Duan, Jiexi Liu, Xiaojun Jia, Fengxiang Wang, Cheng Wei, RuoxiCheng, Yong Xie, Chang Liu, Qing Guo, Jialing Tao, Hui Xue, Xingxing Wei},
   year={2025},
-  url={https://github.com/Alibaba-AAIG/Oyster}
+  url={[https://github.com/Alibaba-AAIG/Oyster](https://github.com/Alibaba-AAIG/Strata-Sword)}
 }
 ```
 ---
